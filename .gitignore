@@ -1,0 +1,7 @@
+old
+machinesUp.txt
+__pycache__
+.idea
+*.txt
+*.pkl
+*.json
