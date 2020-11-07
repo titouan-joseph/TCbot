@@ -1,0 +1,3 @@
+[submodule "tc_pc_scan"]
+	path = tc_pc_scan
+	url = git://github.com/WGW101/tc_pc_scan.git
